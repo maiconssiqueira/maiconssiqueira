@@ -17,11 +17,11 @@ Versatility in IT became my biggest characteristic, and it allowed me to work fr
 I consider myself a problem solver, who loves challenges, collaborates with the team and has good communication skills and attention to detail.
 In the last 4 years I work as a DevOps and Platform engineer.
 
-.........................................................................................................
+...........................................................................................
 
 And now I'm learning coding with Go := 
 
-.........................................................................................................
+...........................................................................................
 </div>  
   
 
