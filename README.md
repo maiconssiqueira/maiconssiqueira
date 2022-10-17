@@ -15,35 +15,33 @@
 <div align="center">Over the years of experience in the IT market, I have focused on acquiring knowledge that will develop me technically and allow me to face new challenges.
 Versatility in IT became my biggest characteristic, and it allowed me to work from network infrastructure support to software and product architecture.
 I consider myself a problem solver, who loves challenges, collaborates with the team and has good communication skills and attention to detail.
-In the last 4 years I work as a Devops and Platform engineer.</div>  
+In the last 4 years I work as a DevOps and Platform engineer.
+
+.........................................................................................................
+
+And now I'm learning coding with Go := 
+
+.........................................................................................................
+</div>  
+  
+
+<div align="center">
+<img src="https://miro.medium.com/max/1400/1*iEKJxwTIECUccHm_lqdBKA.png" align="center" height="200" width="" />
+</div>  
   
 
 <br/>  
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I’m currently working at PicPay  
-  
-
-- 🌱 I’m currently learning Golang :=  
   
 
 - ❓ Ask me about anything related to DevOps and related technologies  
   
 
 - ⚡ Fun fact: I hated Macbook and now have two  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://miro.medium.com/max/1400/1*iEKJxwTIECUccHm_lqdBKA.png" align="center" height="180" width="240" />
-</div>  
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
@@ -71,6 +69,5 @@ In the last 4 years I work as a Devops and Platform engineer.</div>
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="25" /></a>  
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="25" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
-</div>  
-
-<br/>  
+</div>
+<br />
