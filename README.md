@@ -39,9 +39,6 @@ And now I'm learning coding with Go :=
 <div align="center">
 <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" align="center" height="200" width="" />
 </div>  
-  
-
-<img src="https://images.credly.com/images/28669969-37c3-4fd1-9ef6-f67309e75bb7/twitter_thumb_201604_LPI_LPIC1.png" align="left" height="200" width="" />  
 
 
 </td><td valign="top" width="33%">
@@ -49,9 +46,6 @@ And now I'm learning coding with Go :=
 <div align="right">
 <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" align="right" height="205" width="" />
 </div>  
-  
-
-<img src="https://images.credly.com/images/423a56f8-2f41-4fe3-8e51-1b99f97d40ec/LPI_LPIC2.png" align="left" height="195" width="" />  
 
 
 </td><td valign="top" width="33%">
