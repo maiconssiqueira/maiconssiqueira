@@ -17,11 +17,11 @@ Versatility in IT became my biggest characteristic, and it allowed me to work fr
 I consider myself a problem solver, who loves challenges, collaborates with the team and has good communication skills and attention to detail.
 In the last 4 years I work as a DevOps and Platform engineer.
 
-...........................................................................................
+______________________________________
 
 And now I'm learning coding with Go := 
 
-...........................................................................................
+______________________________________
 </div>  
   
 
@@ -29,33 +29,6 @@ And now I'm learning coding with Go :=
 <img src="https://miro.medium.com/max/1400/1*iEKJxwTIECUccHm_lqdBKA.png" align="center" height="200" width="" />
 </div>  
   
-
-<br/>  
-
-
-## Certifications  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">
-<img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" align="center" height="200" width="" />
-</div>  
-
-
-</td><td valign="top" width="33%">
-
-<div align="right">
-<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" align="right" height="205" width="" />
-</div>  
-
-
-</td><td valign="top" width="33%">
-
-<div align="right">
-<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" align="right" height="200" width="" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -96,5 +69,11 @@ And now I'm learning coding with Go :=
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="25" /></a>  
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="25" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
+<a href="https://www.credly.com/badges/2b16f231-152e-4848-a5a4-590b0959e4c5" target="_blank"><img style="margin: 10px" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" height="25" /></a>
+<a href="https://www.credly.com/badges/91ad713e-806d-42b8-84b7-7af5fd9293db" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Developer Associate" height="25" /></a>  
+<a href="https://www.credly.com/badges/5574635d-22b3-4783-9d77-62927017cee1" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" height="25" /></a>  
 </div>
+
+
+
 <br />
